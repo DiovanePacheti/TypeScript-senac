@@ -1,0 +1,23 @@
+{
+  "name": "TypeScript-senac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiovanePacheti/TypeScript-senac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiovanePacheti/TypeScript-senac/issues"
+  },
+  "homepage": "https://github.com/DiovanePacheti/TypeScript-senac#readme",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
